@@ -1,0 +1,16 @@
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\appsettings.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\IonosWebApiTest.deps.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\IonosWebApiTest.runtimeconfig.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\IonosWebApiTest.runtimeconfig.dev.json
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\IonosWebApiTest.dll
+C:\repos\IonosWebApiTest\IonosWebApiTest\bin\Release\netcoreapp2.1\IonosWebApiTest.pdb
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.csprojAssemblyReference.cache
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.RazorAssemblyInfo.cache
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.RazorAssemblyInfo.cs
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.AssemblyInfoInputs.cache
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.AssemblyInfo.cs
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.RazorTargetAssemblyInfo.cache
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.dll
+C:\repos\IonosWebApiTest\IonosWebApiTest\obj\Release\netcoreapp2.1\IonosWebApiTest.pdb
